@@ -1,0 +1,54 @@
+OECD PRINCIPLES ON ARTIFICIAL INTELLIGENCE
+Source: OECD, 2019 (updated 2023)
+
+PREAMBLE
+The Organisation for Economic Co-operation and Development (OECD) adopted the OECD Principles on AI in May 2019. These were the first intergovernmental standard on AI adopted by governments. As of 2023, over 46 countries have adhered to the principles. The principles are non-binding but influential.
+
+NOTE ON DOCUMENT FORMATTING: This document was converted from PDF and may contain minor formatting inconsistencies.
+
+CORE PRINCIPLES
+
+Principle 1 — Inclusive Growth, Sustainable Development and Well-being
+Stakeholders should proactively engage in responsible stewardship of trustworthy AI in pursuit of beneficial outcomes for people and the planet. AI should benefit all people, including vulnerable groups such as workers, children, minorities, and persons with disabilities.
+
+Principle 2 — Human-Centred Values and Fairness
+AI actors should respect the rule of law, human rights, and democratic values throughout the AI lifecycle. This includes   freedom, dignity, autonomy, privacy, non-discrimination, and equality. AI systems should not be used to undermine democratic institutions   or processes.
+
+Principle 3 — Transparency and Explainability
+AI actors should commit to transparency and responsible disclosure to foster trust. This means:
+- Providing meaningful information about AI systems to relevant stakeholders
+- Describing AI interaction to people when they engage with it
+- Enabling understanding and challenging of AI-based outcomes
+- Transparency about the purpose and limitations   of an AI system
+
+Principle 4 — Robustness, Security and Safety
+AI systems should be robust, secure, and safe throughout their entire lifecycle. Risks should be continually assessed and managed, with appropriate safeguards in place. AI actors should ensure traceability of datasets, processes, and decisions. 
+
+NOTE: The OECD uses "robustness" to encompass resilience, reliability, and security — slightly different from the EU AI Act's separate treatment of these concepts.
+
+Principle 5 — Accountability
+AI actors should be accountable for the proper functioning of AI systems and respect of these principles. Accountability includes human oversight and the ability to audit AI systems. Responsibility should be clear across the AI lifecycle.
+
+RECOMMENDATIONS FOR POLICY MAKERS
+
+Governments should:
+a) Invest in AI research and development
+b) Foster open, accessible AI ecosystems (including data, compute, and talent)
+c) Ensure a supportive policy environment shaped by rule of law
+d) Build human capacity and prepare for labour market transition
+e) Prepare for international cooperation on AI
+
+INTERNATIONAL COOPERATION
+The OECD emphasises that AI is global and cross-border by nature. Effective AI governance requires:
+- Mutual recognition of standards
+- Information sharing between regulators
+- Interoperability of regulatory frameworks
+- Coordination on AI safety research
+
+RELATIONSHIP TO OTHER FRAMEWORKS
+The OECD principles have been explicitly referenced in the EU AI Act preamble and in the US AI Bill of Rights. They represent a lowest common denominator that most democracies can agree on but lack binding enforcement.
+
+Penalties: The OECD framework has no enforcement mechanism or penalties. Countries are expected to implement appropriate measures at the national level.
+
+TENSIONS AND CONTRADICTIONS
+The OECD principles acknowledge tension between innovation and safety. They note that overly prescriptive regulation may hamper AI development while under-regulation exposes society to harm. This tension is not fully resolved in the framework — the EU and US have taken different positions on where to draw the line, both claiming OECD adherence.

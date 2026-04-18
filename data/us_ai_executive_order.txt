@@ -1,0 +1,60 @@
+US EXECUTIVE ORDER ON SAFE, SECURE, AND TRUSTWORTHY ARTIFICIAL INTELLIGENCE
+Source: White House, October 2023
+
+INTRODUCTION
+President Biden signed Executive Order 14110 on Safe, Secure, and Trustworthy Artificial Intelligence on October 30, 2023. This landmark order directs federal agencies to take actions to ensure that AI systems developed and deployed in the United States are safe, secure, and aligned with American values. Unlike the EU AI Act, this is an executive order and not a statute—it does not carry the full force of law but directs executive branch agencies.
+
+KEY DIRECTIVES
+
+Safety and Security Standards:
+Federal agencies must:
+- Require developers of the most powerful AI systems to share safety test results with the government before public deployment
+- Establish standards for red-teaming and safety evaluations
+- Develop guidelines for AI cybersecurity
+- Address risks from AI in critical infrastructure sectors
+
+The National Institute of Standards and Technology (NIST) is tasked with developing standards, tools, and tests to ensure AI is safe and secure.
+
+Protecting Americans' Privacy:
+The order prioritises:
+- Development of privacy-preserving techniques
+- Evaluation of how agencies collect and use commercially available data
+- Strengthening privacy guidance for federal agencies
+
+Equity and Civil Rights:
+The order requires:
+- Guidance to prevent AI algorithms from illegally discriminating in areas such as housing, credit, and employment
+- Best practices to protect the rights of workers affected by AI
+
+Protecting Consumers, Patients, and Students:
+- Development of principles for responsible use of AI in healthcare
+- Promotion of AI innovation in education with appropriate guardrails
+- Advancing development of AI safety standards
+
+AI and the Federal Workforce:
+Agencies must:
+- Report on current and anticipated use of AI in government
+- Develop policies for responsible AI use within government operations
+- Identify AI talent needs across the federal workforce
+
+VOLUNTARY FRAMEWORKS
+The US approach relies heavily on voluntary commitments from the private sector. Major AI companies committed to sharing safety information, investing in cybersecurity, and developing technical mechanisms to identify AI-generated content.
+
+The AI Bill of Rights (Blueprint), published in 2022, articulates five principles:
+1. Safe and Effective Systems
+2. Algorithmic Non-Discrimination
+3. Data Privacy
+4. Notice and Explanation
+5. Human Alternatives, Consideration, and Fallback
+
+ENFORCEMENT APPROACH
+Unlike the EU AI Act's binding fines and mandatory compliance, the US framework as of 2024:
+- Relies on existing sector-specific regulatory authorities (FTC, FDA, EEOC)
+- Uses voluntary commitments as a primary mechanism
+- Depends on agency-by-agency rulemaking
+- Does not have a unified AI regulatory body
+
+Congress has been working on AI legislation but no comprehensive federal AI law has passed as of the date of this document.
+
+COMPARISON WITH EU APPROACH
+Critics note that the US approach is more flexible and innovation-friendly but less predictable for businesses. The EU AI Act provides legal certainty at the cost of compliance burden. Both approaches share core values of safety, transparency, and accountability but differ significantly in enforcement mechanisms and legal force.

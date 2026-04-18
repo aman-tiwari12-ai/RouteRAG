@@ -1,0 +1,59 @@
+EU AI ACT — SUMMARY AND KEY PROVISIONS
+Source: European Parliament, 2024
+
+OVERVIEW
+The EU Artificial Intelligence Act (AI Act) is a comprehensive legal framework adopted by the European Union in 2024. It is the world's first binding legal framework specifically targeting artificial intelligence systems. The regulation entered into force in August 2024 and will apply fully by 2026, with some provisions taking effect earlier.
+
+RISK-BASED APPROACH
+The EU AI Act uses a tiered, risk-based approach to regulation, categorising AI systems into four risk levels:
+
+1. Unacceptable Risk (Prohibited):
+AI systems that pose an unacceptable threat to safety or fundamental rights are banned. These include:
+- AI systems that use subliminal techniques to manipulate human behaviour
+- AI that exploits vulnerabilities of specific groups (children, elderly, persons with disabilities)
+- Social scoring systems by public authorities
+- Real-time remote biometric identification systems in public spaces (with narrow exceptions for law enforcement)
+- AI systems that infer emotions in workplaces and educational institutions
+- Biometric categorisation systems using sensitive characteristics
+
+2. High-Risk AI Systems:
+These require strict compliance including conformity assessments, transparency, logging, and human oversight. High-risk sectors include:
+- Critical infrastructure (energy, water, transport)
+- Education and vocational training
+- Employment, worker management, and access to self-employment
+- Essential private and public services (healthcare, banking)
+- Law enforcement
+- Migration, asylum, and border control
+- Administration of justice and democratic processes
+
+3. Limited Risk:
+Systems like chatbots must disclose they are AI. Emotion recognition and biometric categorisation systems must inform users. Deep fakes must be clearly labelled.
+
+4. Minimal or No Risk:
+AI systems such as spam filters or AI in video games are largely unregulated under the Act.
+
+GENERAL-PURPOSE AI (GPAI) MODELS
+The Act introduces specific rules for General-Purpose AI (GPAI) models, including large language models. Providers must maintain technical documentation, comply with EU copyright law, and publish summaries of training data. Models posing systemic risks face additional obligations including adversarial testing and incident reporting.
+
+TRANSPARENCY REQUIREMENTS
+All providers of high-risk AI systems must:
+- Keep detailed technical documentation
+- Ensure traceability through logging
+- Provide clear information to users
+- Design systems to allow human oversight
+- Ensure accuracy, robustness, and cybersecurity
+
+ENFORCEMENT AND PENALTIES
+Member States must establish national competent authorities. Violations can result in:
+- Up to €35 million or 7% of global annual turnover for prohibited AI violations
+- Up to €15 million or 3% of global annual turnover for high-risk system violations
+- Up to €7.5 million or 1.5% of global turnover for providing incorrect information
+
+SMEs and startups benefit from reduced fees and simplified compliance procedures.
+
+GOVERNANCE
+The Act establishes:
+- European Artificial Intelligence Board
+- AI Office within the European Commission
+- Scientific Panel of independent experts
+- Advisory Forum for stakeholder consultation

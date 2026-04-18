@@ -1,0 +1,88 @@
+UNESCO RECOMMENDATION ON THE ETHICS OF ARTIFICIAL INTELLIGENCE
+Source: UNESCO, November 2021
+
+OVERVIEW
+The UNESCO Recommendation on the Ethics of Artificial Intelligence was adopted on November 24, 2021, by UNESCO's 193 Member States. It is the first global standard-setting instrument on AI ethics adopted by any intergovernmental body. Unlike binding treaties, it is a "recommendation" — expressing consensus without legal obligation.
+
+CORE VALUES
+
+The Recommendation is grounded in four core values:
+
+1. Human Rights and Human Dignity
+Every AI actor should respect, protect, and promote human rights and fundamental freedoms. AI should never be used to undermine human dignity.
+
+2. Living in Peaceful, Just, and Interconnected Societies
+AI should foster peace and security. States should ensure AI is not weaponised against civilian populations.
+
+3. Ensuring Diversity and Inclusiveness
+AI should celebrate human diversity. Systems should avoid perpetuating stereotypes or discrimination.
+
+4. Environment and Ecosystem Flourishing
+AI systems should be designed to minimise their environmental impact. Data centres and training compute have significant carbon footprints that must be addressed.
+
+KEY PRINCIPLES
+
+Proportionality and Do No Harm:
+AI actors must assess impacts throughout the AI lifecycle. Where significant uncertainty exists about harm, a precautionary approach should be adopted.
+
+Safety and Security:
+Unwanted harms from AI should be avoided. Unlike the OECD principles, UNESCO explicitly includes environmental harms in safety considerations.
+
+Fairness and Non-discrimination:
+AI systems must not discriminate on grounds including race, gender, language, religion, national or social origin, disability, or other status. Note: UNESCO's list of protected grounds is broader than the EU AI Act's specification.
+
+Sustainability:
+Long-term environmental impact of AI must be considered. This is an area where UNESCO diverges from the EU AI Act, which focuses on human-centred harms with limited treatment of environmental impact.
+
+Right to Privacy and Data Protection:
+Individuals must have meaningful control over their personal data. AI systems should use privacy-by-design principles.
+
+Human Oversight and Determination:
+Humans must retain the ability to override, correct, and shut down AI systems. This aligns with the EU AI Act's human oversight requirements for high-risk systems.
+
+Transparency and Explainability:
+AI systems should be transparent about their nature and limitations. Explainability requirements should be proportionate to the stakes involved. A medical diagnosis AI requires more explainability than a music recommendation system.
+
+Responsibility and Accountability:
+Humans are always responsible for AI-based decisions. The Recommendation explicitly rejects the notion of AI "personhood" or AI as a legal entity.
+
+AREAS OF APPLICATION
+
+Education:
+AI in education should enhance learning without replacing human teachers. Students should be educated about AI. Algorithmic biases in educational AI must be actively countered.
+
+Science and Research:
+Open and collaborative approaches to AI research are encouraged. Responsible data sharing should be promoted.
+
+Labour:
+Workers must be protected from discriminatory AI in employment. Social protection systems should be adapted for the AI era. Reskilling programs are essential.
+
+Healthcare:
+AI health systems should augment human care, not replace it. Patient data privacy must be protected. AI diagnostics require human review before clinical decisions.
+
+GOVERNANCE RECOMMENDATIONS
+
+States should:
+- Develop national AI ethics frameworks
+- Establish oversight bodies with genuine enforcement power
+- Ensure meaningful participation of civil society in AI governance
+- Promote AI ethics education
+- Conduct regular assessment of AI systems in use
+
+Multi-stakeholder Approach:
+Unlike the EU AI Act's primarily top-down regulatory approach, UNESCO recommends governance that explicitly includes civil society, academia, private sector, and affected communities.
+
+ENFORCEMENT
+UNESCO has no enforcement mechanism. The Recommendation relies on:
+- National implementation
+- Peer review mechanisms
+- UNESCO monitoring and reporting
+- Civil society advocacy
+
+This represents a significant gap compared to the EU AI Act's binding fines. Some scholars argue voluntary frameworks are insufficient for addressing AI harms.
+
+CONTRADICTIONS WITH OTHER FRAMEWORKS
+1. UNESCO's broader protected characteristics list vs. EU AI Act's specific list
+2. UNESCO's environmental focus vs. EU AI Act's human-centred framing  
+3. UNESCO's multi-stakeholder governance vs. EU AI Act's institutional approach
+4. UNESCO explicitly rejects AI legal personhood; this aligns with EU but is more explicit
